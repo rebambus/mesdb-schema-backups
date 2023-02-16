@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for mesdb_schema_backups."""
 
 from .cli import main  # pragma: no cover
 

@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from mesdb_schema_backups.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "mesdb_schema_backups"
